@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AndroidCore</string>
     <string name="helloWorld">Hello world!</string>
+
+    <string name="button1Text">Rosso</string>
+    <string name="button2Text">Blu</string>
+    <string name="button3Text">Verde</string>
+
 </resources>
