@@ -13,4 +13,10 @@
     <string name="actionFavorite">Favorites</string>
     <string name="actionSettings">Settings</string>
 
+    <string name="main_fragment_title">MainFragment</string>
+    <string name="first_fragment_title">FirstFragment</string>
+    <string name="second_fragment_title">SecondFragment</string>
+    <string name="goToFirstFragment">Go to first fragment</string>
+    <string name="goToSecondFragment">Go to second fragment</string>
+
 </resources>
