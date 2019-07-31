@@ -1,9 +1,10 @@
-package com.example.androidcore
+package com.example.androidcore.appbar
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import com.example.androidcore.R
 import kotlinx.android.synthetic.main.activity_app_bar.*
 
 class AppBarActivity : AppCompatActivity() {

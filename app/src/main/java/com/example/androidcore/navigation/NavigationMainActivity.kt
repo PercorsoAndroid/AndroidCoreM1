@@ -1,9 +1,10 @@
-package com.example.androidcore
+package com.example.androidcore.navigation
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.Navigation
 import androidx.navigation.fragment.NavHostFragment
+import com.example.androidcore.R
 
 class NavigationMainActivity : AppCompatActivity() {
 
@@ -19,6 +20,8 @@ class NavigationMainActivity : AppCompatActivity() {
     }
 
     //Metodo a supporto della navigazione
-    override fun onSupportNavigateUp(): Boolean = Navigation.findNavController(this, R.id.container).navigateUp()
+    override fun onSupportNavigateUp(): Boolean = Navigation.findNavController(this,
+        R.id.container
+    ).navigateUp()
 
 }

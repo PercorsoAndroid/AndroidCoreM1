@@ -9,25 +9,25 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".NavigationMainActivity">
+        <activity android:name=".navigation.NavigationMainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".AppBarActivity">
+        <activity android:name=".appbar.AppBarActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".LayoutActivity">
+        <activity android:name=".layout.LayoutActivity">
         </activity>
         <activity android:name=".MainActivity">
         </activity>
-        <activity android:name=".NotificationActivity">
+        <activity android:name=".notification.NotificationActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

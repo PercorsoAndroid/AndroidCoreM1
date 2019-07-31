@@ -1,8 +1,8 @@
-package com.example.androidcore
+package com.example.androidcore.layout
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import kotlinx.android.synthetic.main.activity_main.*
+import com.example.androidcore.R
 import kotlinx.android.synthetic.main.relative_layout.*
 
 class LayoutActivity : AppCompatActivity() {
