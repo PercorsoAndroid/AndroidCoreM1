@@ -40,6 +40,17 @@
             android:name="com.example.androidcore.toast.ToastFragment"
             android:label="@string/toast_fragment_title"
             tools:layout="@layout/fragment_toast">
+        <action
+                android:id="@+id/action_toastFragment_to_snackbarFragment"
+                app:destination="@id/snackFragment" />
     </fragment>
+
+    <fragment
+            android:id="@+id/snackFragment"
+            android:name="com.example.androidcore.snackbar.SnackbarFragment"
+            android:label="@string/snackbar_fragment_title"
+            tools:layout="@layout/fragment_snackbar">
+    </fragment>
+
 
 </navigation>

@@ -5,10 +5,11 @@
              android:layout_height="match_parent"
              tools:context=".toast.ToastFragment">
 
-    <TextView
+    <Button
+            android:id="@+id/toSnackbarFragmentBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/toast_fragment_title"
+            android:text="@string/goToSnackbarFragment"
             android:layout_gravity="center"/>
 
 </FrameLayout>
