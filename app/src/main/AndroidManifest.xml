@@ -16,24 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".appbar.AppBarActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
-        </activity>
-        <activity android:name=".layout.LayoutActivity">
-        </activity>
-        <activity android:name=".MainActivity">
-        </activity>
-        <activity android:name=".notification.NotificationActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
-        </activity>
+        <activity android:name=".appbar.AppBarActivity"></activity>
+        <activity android:name=".layout.LayoutActivity"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".notification.NotificationActivity"></activity>
     </application>
 
 </manifest>

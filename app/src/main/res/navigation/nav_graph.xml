@@ -13,6 +13,9 @@
         <action
                 android:id="@+id/action_mainFragment_to_firstFragment"
                 app:destination="@id/firstFragment" />
+        <action
+                android:id="@+id/action_mainFragment_to_toastFragment"
+                app:destination="@id/toastFragment" />
     </fragment>
 
     <fragment
@@ -30,6 +33,13 @@
             android:name="com.example.androidcore.navigation.NavigationSecondFragment"
             android:label="fragment_second"
             tools:layout="@layout/fragment_navigation_second">
+    </fragment>
+
+    <fragment
+            android:id="@+id/toastFragment"
+            android:name="com.example.androidcore.toast.ToastFragment"
+            android:label="@string/toast_fragment_title"
+            tools:layout="@layout/fragment_toast">
     </fragment>
 
 </navigation>

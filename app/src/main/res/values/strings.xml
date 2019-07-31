@@ -19,4 +19,10 @@
     <string name="goToFirstFragment">Go to first fragment</string>
     <string name="goToSecondFragment">Go to second fragment</string>
 
+    <string name="toast_fragment_title">Toast fragment</string>
+    <string name="goToToastFragment">Go to toast fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

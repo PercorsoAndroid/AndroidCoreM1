@@ -31,6 +31,10 @@ class NavigationMainFragment : Fragment() {
             findNavController().navigate(R.id.action_firstFragment_to_secondFragment);
         }
 
+        goToToastFragmentBtn.setOnClickListener { view ->
+            findNavController().navigate(R.id.action_mainFragment_to_toastFragment);
+        }
+
     }
 
 
