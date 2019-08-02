@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.example.androidcore.R
+import com.example.androidcore.dialogs.MyDialogFragment
 import kotlinx.android.synthetic.main.fragment_navigation_main.*
 
 class NavigationMainFragment : Fragment() {
@@ -33,6 +34,11 @@ class NavigationMainFragment : Fragment() {
 
         goToToastFragmentBtn.setOnClickListener { view ->
             findNavController().navigate(R.id.action_mainFragment_to_toastFragment);
+        }
+
+        showDialogFragmentBtn.setOnClickListener { view ->
+            var dialogFragment = MyDialogFragment();
+            dialogFragment.show(fragmentManager, "dialog");
         }
 
     }
