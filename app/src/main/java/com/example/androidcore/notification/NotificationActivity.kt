@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v4.app.NotificationCompat
 import android.support.v4.app.NotificationManagerCompat
+import android.support.v4.content.ContextCompat.getSystemService
 import com.example.androidcore.R
 import kotlinx.android.synthetic.main.activity_notification.*
 

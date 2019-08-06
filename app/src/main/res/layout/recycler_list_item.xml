@@ -1,0 +1,13 @@
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+    <Button
+        android:drawableStart="@drawable/ic_launcher_foreground"
+        android:id="@+id/singleItemBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/helloWorld"/>
+
+</RelativeLayout>
