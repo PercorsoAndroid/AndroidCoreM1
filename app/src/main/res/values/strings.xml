@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">AndroidCore</string>
-    <string name="helloWorld">Hello world!</string>
+    <string name="hello_world">Hello world!</string>
 </resources>
