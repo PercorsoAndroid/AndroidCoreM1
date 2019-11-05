@@ -11,21 +11,21 @@ class AppBarActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_app_bar)
-        setSupportActionBar(my_toolbar);
+        setSupportActionBar(my_toolbar)
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.appbar_menu, menu);
-        return true;
+        return true
     }
 
     override fun onOptionsItemSelected(item: MenuItem)= when (item.itemId){
         R.id.action_favorite -> {
-            true;
+            true
         }
 
         R.id.action_settings -> {
-            true;
+            true
         }
 
         else -> {
