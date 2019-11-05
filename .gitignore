@@ -11,3 +11,5 @@
 /build
 /captures
 .externalNativeBuild
+codeStyleConfig.xml
+Project.xml
