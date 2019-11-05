@@ -2,9 +2,9 @@
     <string name="app_name">AndroidCore</string>
     <string name="hello_world">Hello world!</string>
 
-    <string name="button1Text">Rosso</string>
-    <string name="button2Text">Blu</string>
-    <string name="button3Text">Verde</string>
+    <string name="button1_text">Rosso</string>
+    <string name="button2_text">Blu</string>
+    <string name="button3_text">Verde</string>
 
     <string name="notificationTitle">Una nuova notifica per te!</string>
     <string name="notificationText">Ciao come va oggi?</string>
