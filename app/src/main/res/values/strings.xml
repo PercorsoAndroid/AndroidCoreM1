@@ -10,23 +10,23 @@
     <string name="notification_text">Ciao come va oggi?</string>
     <string name="fire_notification_button_text">Fire notification!</string>
 
-    <string name="actionFavorite">Favorites</string>
-    <string name="actionSettings">Settings</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="action_settings">Settings</string>
 
     <string name="main_fragment_title">MainFragment</string>
     <string name="first_fragment_title">FirstFragment</string>
     <string name="second_fragment_title">SecondFragment</string>
-    <string name="goToFirstFragment">Go to first fragment</string>
-    <string name="goToSecondFragment">Go to second fragment</string>
+    <string name="go_to_first_fragment">Go to first fragment</string>
+    <string name="go_to_second_fragment">Go to second fragment</string>
 
     <string name="toast_fragment_title">Toast fragment</string>
-    <string name="goToToastFragment">Go to toast fragment</string>
+    <string name="go_to_toast_fragment">Go to toast fragment</string>
 
     <string name="snackbar_fragment_title">Snackbar fragment</string>
-    <string name="goToSnackbarFragment">Go to snackbar fragment</string>
-    <string name="helloSnackbarFragment">Hello world!</string>
+    <string name="go_to_snackbar_fragment">Go to snackbar fragment</string>
+    <string name="hello_snackbar_fragment">Hello world!</string>
 
-    <string name="showDialogFragment">Show dialog fragment</string>
+    <string name="show_dialog_fragment">Show dialog fragment</string>
     <string name="dialog_fragment_title">Dialog fragment</string>
     <string name="dialog_fragment_message">Fire missiles?</string>
     <string name="dialog_fragment_fire_option">Fire</string>
