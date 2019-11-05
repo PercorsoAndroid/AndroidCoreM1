@@ -26,7 +26,7 @@
     <string name="go_to_snackbar_fragment">Go to snackbar fragment</string>
     <string name="hello_snackbar_fragment">Hello world!</string>
 
-    <string name="showDialogFragment">Show dialog fragment</string>
+    <string name="show_dialog_fragment">Show dialog fragment</string>
     <string name="dialog_fragment_title">Dialog fragment</string>
     <string name="dialog_fragment_message">Fire missiles?</string>
     <string name="dialog_fragment_fire_option">Fire</string>
@@ -34,6 +34,5 @@
     <string name="dialog_fragment_missiles_fired">Missiles fired!</string>
     <string name="dialog_fragment_operation_cancelled">Operation aborted!</string>
 
-    <string name="add_item_recycler_view">Add item</string>
 
 </resources>
