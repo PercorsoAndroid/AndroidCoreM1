@@ -20,7 +20,7 @@ class SnackbarFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        Snackbar.make(coordinatorLayout, resources.getString(R.string.helloSnackbarFragment), Snackbar.LENGTH_SHORT).show();
+        Snackbar.make(coordinatorLayout, resources.getString(R.string.hello_snackbar_fragment), Snackbar.LENGTH_SHORT).show();
 
     }
 

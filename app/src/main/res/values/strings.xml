@@ -23,7 +23,7 @@
     <string name="go_to_toast_fragment">Go to toast fragment</string>
 
     <string name="snackbar_fragment_title">Snackbar fragment</string>
-    <string name="goToSnackbarFragment">Go to snackbar fragment</string>
-    <string name="helloSnackbarFragment">Hello world!</string>
+    <string name="go_to_snackbar_fragment">Go to snackbar fragment</string>
+    <string name="hello_snackbar_fragment">Hello world!</string>
 
 </resources>
