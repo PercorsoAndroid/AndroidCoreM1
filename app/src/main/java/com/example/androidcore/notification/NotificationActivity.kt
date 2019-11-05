@@ -23,8 +23,8 @@ class NotificationActivity : AppCompatActivity() {
 
         var builder = NotificationCompat.Builder(this, channelId)
             .setSmallIcon(R.drawable.ic_launcher_foreground)
-            .setContentTitle(resources.getString(R.string.notificationTitle))
-            .setContentText(resources.getString(R.string.notificationText))
+            .setContentTitle(resources.getString(R.string.notification_title))
+            .setContentText(resources.getString(R.string.notification_text))
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)
             .build()
 
