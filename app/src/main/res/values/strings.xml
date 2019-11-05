@@ -6,9 +6,9 @@
     <string name="button2_text">Blu</string>
     <string name="button3_text">Verde</string>
 
-    <string name="notificationTitle">Una nuova notifica per te!</string>
-    <string name="notificationText">Ciao come va oggi?</string>
-    <string name="fireNotificationButtonText">Fire notification!</string>
+    <string name="notification_title">Una nuova notifica per te!</string>
+    <string name="notification_text">Ciao come va oggi?</string>
+    <string name="fire_notification_button_text">Fire notification!</string>
 
     <string name="actionFavorite">Favorites</string>
     <string name="actionSettings">Settings</string>
