@@ -34,5 +34,6 @@
     <string name="dialog_fragment_missiles_fired">Missiles fired!</string>
     <string name="dialog_fragment_operation_cancelled">Operation aborted!</string>
 
+    <string name="add_item_recycler_view">Add item</string>
 
 </resources>
