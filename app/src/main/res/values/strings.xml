@@ -1,22 +1,22 @@
 <resources>
     <string name="app_name">AndroidCore</string>
-    <string name="helloWorld">Hello world!</string>
+    <string name="hello_world">Hello world!</string>
 
-    <string name="button1Text">Rosso</string>
-    <string name="button2Text">Blu</string>
-    <string name="button3Text">Verde</string>
+    <string name="button1_text">Rosso</string>
+    <string name="button2_text">Blu</string>
+    <string name="button3_text">Verde</string>
 
-    <string name="notificationTitle">Una nuova notifica per te!</string>
-    <string name="notificationText">Ciao come va oggi?</string>
-    <string name="fireNotificationButtonText">Fire notification!</string>
+    <string name="notification_title">Una nuova notifica per te!</string>
+    <string name="notification_text">Ciao come va oggi?</string>
+    <string name="fire_notification_button_text">Fire notification!</string>
 
-    <string name="actionFavorite">Favorites</string>
-    <string name="actionSettings">Settings</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="action_settings">Settings</string>
 
     <string name="main_fragment_title">MainFragment</string>
     <string name="first_fragment_title">FirstFragment</string>
     <string name="second_fragment_title">SecondFragment</string>
-    <string name="goToFirstFragment">Go to first fragment</string>
-    <string name="goToSecondFragment">Go to second fragment</string>
+    <string name="go_to_first_fragment">Go to first fragment</string>
+    <string name="go_to_second_fragment">Go to second fragment</string>
 
 </resources>

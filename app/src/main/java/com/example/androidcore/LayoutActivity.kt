@@ -12,16 +12,16 @@ class LayoutActivity : AppCompatActivity() {
         setContentView(R.layout.relative_layout);
 
         button1.setOnClickListener { view ->
-            container.setBackgroundColor(resources.getColor(R.color.colorAccent))
+            container.setBackgroundColor(resources.getColor(R.color.colorAccent, null))
         }
 
 
         button2.setOnClickListener { view ->
-            container.setBackgroundColor(resources.getColor(R.color.colorPrimaryDark))
+            container.setBackgroundColor(resources.getColor(R.color.colorPrimaryDark, null))
         }
 
         button3.setOnClickListener { view ->
-            container.setBackgroundColor(resources.getColor(R.color.colorPrimary))
+            container.setBackgroundColor(resources.getColor(R.color.colorPrimary,  null))
         }
 
     }
