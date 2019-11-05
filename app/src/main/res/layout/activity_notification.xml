@@ -13,7 +13,6 @@
             android:layout_height="wrap_content"
             android:text="@string/fire_notification_button_text"
             android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-    />
+            android:layout_centerVertical="true"/>
 
 </RelativeLayout>

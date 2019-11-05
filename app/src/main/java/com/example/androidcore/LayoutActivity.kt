@@ -15,7 +15,6 @@ class LayoutActivity : AppCompatActivity() {
             container.setBackgroundColor(resources.getColor(R.color.colorAccent, null))
         }
 
-
         button2.setOnClickListener { view ->
             container.setBackgroundColor(resources.getColor(R.color.colorPrimaryDark, null))
         }
